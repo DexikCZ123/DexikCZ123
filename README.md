@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @DexikCZ123
-- 👀 I’m interested in Fivem
-- 🌱 I’m currently learning Lua, JS 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord: Dexik#2091
+FIVEM ARMOUR_FUELER
 
-<!---
-DexikCZ123/DexikCZ123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is my first release fivem script
+
+Made For HexusRP
+
+Requirements: 
+https://github.com/HalCroves/mythic_progbar
+ESX 1.1 or Final
+
+Showcase: 
+https://streamable.com/04k7d6
