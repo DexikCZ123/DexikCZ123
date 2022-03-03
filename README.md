@@ -4,7 +4,7 @@ This is my first release fivem script
 
 Made For HexusRP
 
-For whitelist jobs
+For whitelist jobs customizable in config
 
 Requirements: 
 https://github.com/HalCroves/mythic_progbar
